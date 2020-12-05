@@ -10,10 +10,10 @@ Operations:
 - mermbership
 - equality
 - set X: from three sets A, B and C it allows to calculate the set X.
-- program: programa que lea tres conjuntos de datos A, B y C y una lista de elementos E y que realice lo siguiente
-  - El cálculo del conjunto X del ejercicio 8, usando los conjuntos A, B y C.
-  - Que determine la cardinalidad de X.
-  - Que determine la pertenencia o no de los elementos de E en X.
+- program: program that reads three data sets A, B, and C and a list of items E and does the following:
+  - The calculation of set X of exercise 8, using sets A, B and C.
+  - Let him determine the cardinality of X.
+  - That determines the membership or not of the elements of E in X.
 
 Required:
   HDFS
